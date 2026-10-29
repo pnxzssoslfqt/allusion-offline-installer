@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Image+Reference+Manager-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Image+Reference-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Allusion Free Installer** — Allusion is a free, open-source image reference board application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Allusion Free Installer** — Allusion is a free, open-source image reference management tool for artists and designers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Allusion
 
-Allusion is a free, open-source image reference board application for Windows, macOS, and Linux. Collect, organize, and display image references for art and design projects in a distraction-free board environment. Create collections from local files or web images, tag and organize references, and use them alongside your art software. Allusion replaces physical printed reference boards for digital artists.
+Allusion is a free, open-source image reference management tool for artists and designers. It provides a distraction-free board for collecting and organizing visual references, with a compact always-on-top mode for use alongside other creative applications.
 
 ---
 
 ## ❌ Problem: Allusion is hard to access
 
-- **Feature Depth** — Less feature-rich than PureRef for complex reference board organization
-- **Development Stage** — Newer project with features actively being added
-- **Performance** — Very large image collections may affect browsing speed
-- **Offline First** — Web image import requires internet but references stored locally
+- **Limited Features** — Missing advanced tagging, search, and metadata management
+- **No Cloud Sync** — Reference collections exist only locally; no automatic backup
+- **Development Pace** — Feature additions arrive slowly compared to commercial alternatives
+- **Import Limitations** — Cannot directly import from Pinterest or Instagram feeds
 
 ---
 
@@ -121,7 +121,7 @@ Allusion is a free, open-source image reference board application for Windows, m
 
 ---
 
-**Allusion Free Installer** — Allusion is a free, open-source image reference board application for Windows, macOS, and Linux. Install without internet connection today!
+**Allusion Free Installer** — Allusion is a free, open-source image reference management tool for artists and designers. Install without internet connection today!
 
 <div align="center">
 
